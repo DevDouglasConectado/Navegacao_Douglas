@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:navigator2/app/pages/page2.dart';
+import 'package:navegacao_douglas/app/pages/page2.dart';
+import 'package:navegacao_douglas/app/pages/page2.dart';
+//import 'package:navigator2/app/pages/page2.dart';
 
 import 'pages/page1.dart';
 import 'pages/page3.dart';

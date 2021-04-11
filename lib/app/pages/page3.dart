@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:navigator2/app/pages/page1.dart';
+import 'package:navegacao_douglas/app/pages/page1.dart';
+import 'package:navegacao_douglas/app/pages/page1.dart';
+//import 'package:navigator2/app/pages/page1.dart';
 
 class Page3 extends StatelessWidget {
   const Page3({Key key}) : super(key: key);

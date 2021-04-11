@@ -1,6 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:navigator2/app/pages/page2.dart';
+import 'package:navegacao_douglas/app/pages/page2.dart';
+//import 'package:navigator2/app/pages/page2.dart';
 
 class Page1 extends StatelessWidget {
   const Page1({Key key}) : super(key: key);
@@ -59,7 +60,7 @@ class Page1 extends StatelessWidget {
                   Navigator.of(context).pop();
                   Navigator.of(context).push(
                     MaterialPageRoute(
-                      builder: (context) => Page2(),
+                      builder: (context) => Page1(),
                     ),
                   );
                 },
